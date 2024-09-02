@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!Here’s the revised list with your updated goal and the requested structure:
 
 # My name is Andrew!
 
