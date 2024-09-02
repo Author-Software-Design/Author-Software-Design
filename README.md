@@ -4,8 +4,8 @@
 # My name is Andrew!
 
 ## How to Reach me
-You can reach me here [LinkedIn.](https://www.linkedin.com/feed/)   
-I'll be posting projects to my [CodePen Page](https://codepen.io/Author_Software-Designer) over the coming months.
+You can reach me here on [LinkedIn.](https://www.linkedin.com/feed/)   
+And I'll be posting projects to my [CodePen Page](https://codepen.io/Author_Software-Designer) over the coming months.
 
 ## About Me
 
